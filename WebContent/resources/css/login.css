@@ -1,0 +1,29 @@
+.split{
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.left{
+    left:0;
+}
+
+.right{
+    right:0;
+    padding-top: 10%;
+}
+
+.login-input{
+    width: 70%;
+}
+
+.heading{
+	text-align: center;
+	background: coral;
+	font-family: fantasy;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: x-small;
+}
